@@ -2,73 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0de834c9-7599-4d9d-a747-45924666349d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/student-start/README.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/README.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson01-Introduction/C03M01L01.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson01-Introduction/C03M01L02.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson01-Introduction/C03M01L03.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson01-Introduction/C03M01L04.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson01-Introduction/C03M01L05.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/C03M01L06.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/C03M01L07.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/C03M01L08.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/C03M01L09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/C03M01L10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson3-Zips/C03M01L11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson3-Zips/C03M01L12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson3-Zips/C03M01L13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson3-Zips/C03M01L14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson3-Zips/C03M01L15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson3-Zips/C03M01L16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/solution/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/solution/assignment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/solution/spec/assignment_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/solution/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/student-start/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/student-start/README.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/student-start/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/student-start/assignment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/student-start/spec/assignment_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson01-MongoDB-Connection/student-start/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/assignment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/race_results.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/spec/lecture1_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/spec/lecture2_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/spec/lecture3_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/spec/lecture4_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/spec/lecture5_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/solution/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/README.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/assignment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/race_results.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/spec/lecture1_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/spec/lecture2_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/spec/lecture3_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/spec/lecture4_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/spec/lecture5_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Assignments/Lesson02-CRUD/student-start/spec/spec_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson01-Introduction/examples/C03M01L05.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/examples/C03M01L06.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/examples/C03M01L07.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/examples/C03M01L08.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/examples/C03M01L09.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lectures/Lesson02-CRUD/examples/C03M01L10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fullstack-course3-module1-zips.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fullstack-course3-module1-zips.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -134,7 +68,7 @@
       <file leaf-file-name="mongoid.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/mongoid.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78518516">
+            <state vertical-scroll-proportion="1.1100245">
               <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
               <folding />
             </state>
@@ -981,12 +915,12 @@
       <option name="number" value="Default" />
       <updated>1464201928473</updated>
       <workItem from="1464201938081" duration="11973000" />
-      <workItem from="1464431975947" duration="7440000" />
+      <workItem from="1464431975947" duration="8693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19413000" />
+    <option name="totallyTimeSpent" value="20666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1317" height="784" extended-state="6" />
@@ -999,8 +933,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33588958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6671779" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1169,7 +1103,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/mongoid.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78518516">
+        <state vertical-scroll-proportion="1.1100245">
           <caret line="137" column="0" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding />
         </state>
